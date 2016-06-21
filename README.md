@@ -33,7 +33,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-[Imgur](http://i.imgur.com/DUIuvVu.gifv)
+
+<img src='https://s3.amazonaws.com/f.cl.ly/items/3Z3z1B3R0N3i1F2J3u1F/assigment-facebook-week-5.gif?v=81f59dd0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
