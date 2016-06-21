@@ -64,11 +64,7 @@ class NewsFeedViewController: UIViewController {
         
         // Access the ViewController that you will be transitioning too, a.k.a, the destinationViewController.
         
-        destinationViewController.view.layoutIfNeeded()
-        
-       
-        
-        
+   
         
     }
 
